@@ -192,7 +192,7 @@
     "@types/mocha": "7.0.2",
     "@types/node": "10.17.26",
     "husky": "4.2.5",
-    "lint-staged": "10.2.11",
+    "lint-staged": "10.2.13",
     "mocha": "8.0.1",
     "prettier": "2.0.5",
     "ts-loader": "7.0.5",
